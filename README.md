@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://honeypot-web-simulation.netlify.app/index.html">
+  <a href="#">
     <img src="assets/images/Honeypot.png" alt="Honeypot Simulation Logo" width="200" height="165">
   </a>
 </p>
